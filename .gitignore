@@ -1,0 +1,9 @@
+# material do AVA que não vai para o repositório público
+_bruto/
+notas.md
+*.pdf
+*.odt
+**/arquivos/*.zip
+
+# ambiente e cache
+.DS_Store
